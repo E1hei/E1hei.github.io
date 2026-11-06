@@ -1,4 +1,4 @@
-# YiFan Wang — Personal homepage
+# Yifan Wang — Personal homepage
 
 个人主页：https://e1hei.github.io/
 
@@ -6,7 +6,9 @@
 
 ## 当前内容
 
-- 简介：复旦大学大数据学院统计学硕士在读，2025 年入学，预计 2028 年毕业。
+- 姓名：英文 Yifan Wang，简体中文 王一凡。
+- 简介：一句话介绍复旦大学大数据学院统计学硕士身份；完整年份和专业信息放在 Education 中。
+- 语言：顶部提供 English ｜ 简体中文切换，每次打开默认英文；正文、导航、页脚、辅助标签和页面元信息随选择切换。
 - 教育经历：2021–2025 年，复旦大学大数据学院，人工智能（大数据班）；2025 年起，统计学硕士在读。
 - 联系方式：公开邮箱和 GitHub 文本链接；已移除 Say hello 按钮及复制邮箱脚本。
 - 本科未指定学位类型，页面使用 Undergraduate studies；未补写导师、研究方向、论文或项目。
@@ -25,7 +27,7 @@
 
 1. 打开 https://github.com/E1hei/E1hei.github.io 。
 2. 点击 `index.html`，再点击铅笔图标编辑。
-3. 搜索要修改的姓名、邮箱或介绍并修改。修改邮箱时，同时更新可见文字和 `mailto:` 链接。
+3. 姓名、简介、专业等双语文案在页面底部 `translations` 中维护，同时更新页面中默认显示的英文内容；修改邮箱时，同步更新可见地址和 `mailto:` 链接。
 4. 点击 **Commit changes** 保存。GitHub Pages 会自动更新，发布可能需要几分钟。
 
 ## 首次配置 GitHub Pages
